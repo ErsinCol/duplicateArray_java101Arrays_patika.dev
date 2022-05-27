@@ -1,1 +1,1 @@
-# duplicateArray_java101Arrays_patika.dev
+Dizideki Tekrar Eden Çift Sayıları Bulan Program
